@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Test article",
+        "content": "The content of this test article",
+        "tags": ["Test","Taggytag"],
+        "authorID": 1,
+        "createdAt": "29/12/2021",
+        "updatedAt": "29/12/2021",
+        "deletedAt": "0"
+    },
+    {
+        "id": 2,
+        "title": "Test article V2",
+        "content": "The content of this test article",
+        "tags": ["Test","Taggytag"],
+        "authorID": 1,
+        "createdAt": "29/12/2021",
+        "updatedAt": "29/12/2021",
+        "deletedAt": "0"
+    },
+    {
+        "id": 3,
+        "title": "Test article V3",
+        "content": "The content of this test article",
+        "tags": ["Test","Taggytag"],
+        "authorID": 2,
+        "createdAt": "29/12/2021",
+        "updatedAt": "29/12/2021",
+        "deletedAt": "0"
+    }
+]
